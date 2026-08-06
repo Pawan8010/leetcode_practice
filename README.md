@@ -12,17 +12,28 @@
 | ------- |
 | [0015-3sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pawan8010/leetcode_practice/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pawan8010/leetcode_practice/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
