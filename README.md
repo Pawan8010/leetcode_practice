@@ -13,6 +13,7 @@
 | [0015-3sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pawan8010/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pawan8010/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
