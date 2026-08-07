@@ -32,6 +32,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pawan8010/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
