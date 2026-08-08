@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pawan8010/leetcode_practice/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/Pawan8010/leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/Pawan8010/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Pawan8010/leetcode_practice/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Pawan8010/leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pawan8010/leetcode_practice/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Pawan8010/leetcode_practice/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
