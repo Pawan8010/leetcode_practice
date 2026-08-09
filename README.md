@@ -18,6 +18,7 @@
 | [0015-3sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0018-4sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0143-reorder-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
 | [1768-merge-strings-alternately](https://github.com/Pawan8010/leetcode_practice/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pawan8010/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pawan8010/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
@@ -62,6 +64,7 @@
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0143-reorder-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Pawan8010/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -100,4 +103,8 @@
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pawan8010/leetcode_practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
