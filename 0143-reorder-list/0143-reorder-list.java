@@ -40,9 +40,10 @@ class Solution {
             ListNode nextright=right.next;
 
             left.next=right;
-            right.next=nextleft;
+             left=nextleft;
+            right.next=left;
 
-            left=nextleft;
+           
             right=nextright;
 
         }
