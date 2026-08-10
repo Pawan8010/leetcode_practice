@@ -21,6 +21,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pawan8010/leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [1768-merge-strings-alternately](https://github.com/Pawan8010/leetcode_practice/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pawan8010/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -51,6 +52,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pawan8010/leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pawan8010/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
 |  |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pawan8010/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pawan8010/leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pawan8010/leetcode_practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Pawan8010/leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0229-majority-element-ii) |
