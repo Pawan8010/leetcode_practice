@@ -34,6 +34,7 @@
 | [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Pawan8010/leetcode_practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Pawan8010/leetcode_practice/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Pawan8010/leetcode_practice/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Pawan8010/leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Pawan8010/leetcode_practice/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Pawan8010/leetcode_practice/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/Pawan8010/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Pawan8010/leetcode_practice/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Pawan8010/leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
@@ -101,6 +103,7 @@
 | [0169-majority-element](https://github.com/Pawan8010/leetcode_practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Pawan8010/leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Pawan8010/leetcode_practice/tree/master/0242-valid-anagram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pawan8010/leetcode_practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
