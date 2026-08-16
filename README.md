@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Pawan8010/leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Pawan8010/leetcode_practice/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pawan8010/leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0143-reorder-list) |
+| [1922-count-good-numbers](https://github.com/Pawan8010/leetcode_practice/tree/master/1922-count-good-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
