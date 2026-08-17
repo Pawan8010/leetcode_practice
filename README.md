@@ -61,6 +61,7 @@
 | [0143-reorder-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pawan8010/leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pawan8010/leetcode_practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pawan8010/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
 |  |
@@ -91,6 +92,7 @@
 ## Math
 |  |
 | ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pawan8010/leetcode_practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Pawan8010/leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Pawan8010/leetcode_practice/tree/master/1922-count-good-numbers) |
 ## Greedy
