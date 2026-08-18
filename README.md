@@ -15,6 +15,7 @@
 | [0229-majority-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0503-next-greater-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Pawan8010/leetcode_practice/tree/master/0739-daily-temperatures) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pawan8010/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pawan8010/leetcode_practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pawan8010/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pawan8010/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pawan8010/leetcode_practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Recursion
 |  |
@@ -139,4 +141,8 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Pawan8010/leetcode_practice/tree/master/0739-daily-temperatures) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pawan8010/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
