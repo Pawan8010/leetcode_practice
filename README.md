@@ -29,6 +29,7 @@
 | [0143-reorder-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pawan8010/leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0567-permutation-in-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Pawan8010/leetcode_practice/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pawan8010/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -77,6 +78,7 @@
 | [0014-longest-common-prefix](https://github.com/Pawan8010/leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Pawan8010/leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pawan8010/leetcode_practice/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Pawan8010/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Pawan8010/leetcode_practice/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Pawan8010/leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
@@ -114,6 +116,7 @@
 | [0205-isomorphic-strings](https://github.com/Pawan8010/leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pawan8010/leetcode_practice/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pawan8010/leetcode_practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
@@ -129,6 +132,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pawan8010/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0567-permutation-in-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pawan8010/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pawan8010/leetcode_practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Recursion
