@@ -1,24 +1,30 @@
 class Solution {
-    static void solve(int[] candidates,int target,int index,List<Integer>list,  List<List<Integer>>finallist){
+    static void solve(int index, List<List<Integer>>list,List<Integer>ans,int[]arr,int target){
         if(target==0){
-              finallist.add(new ArrayList<>(list));
+            list.add(new ArrayList<>(ans));
             return;
-        }
-        if(target<0 || index>=candidates.length){
-          return;
-         }
+       }
+    
 
-        list.add(candidates[index]);
-         solve(candidates,target-candidates[index],index,list,finallist);
-        list.remove(list.size()-1);
-         solve(candidates,target,index+1,list,finallist);
-       
+       for(int i=index;i<arr.length;i++){
+        // include case  
+         if(arr[i]>target) continue;
+         ans.add(arr[i]);
+         solve(i,list,ans,arr,target-arr[i]);
+
+        // exclude case
+        ans.remove(ans.size()-1);
+        //  solve(index+1,list,ans,arr,target);
+       }
     }
+   
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>>finallist=new ArrayList<>();
-        List<Integer>list=new ArrayList<>();
-         solve(candidates,target,0,list,finallist);
-        //   finallist.add(list);
-          return finallist;
+    //   taking element multiple time 
+    // once elemnt will br excluded not piking it in future
+    List<List<Integer>>list=new ArrayList<>();
+    List<Integer>ans=new ArrayList<>();
+    solve(0,list,ans,candidates,target);
+    return list;
+
     }
 }
