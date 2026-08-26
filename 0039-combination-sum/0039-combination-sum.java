@@ -5,17 +5,19 @@ class Solution {
             return;
        }
     
+    if(target<0) return;
+    if(index>=arr.length) return;
 
-       for(int i=index;i<arr.length;i++){
+    //    for(int i=index;i<arr.length;i++){
         // include case  
-         if(arr[i]>target) continue;
-         ans.add(arr[i]);
-         solve(i,list,ans,arr,target-arr[i]);
+        //  if(arr[i]>target) continue;
+         ans.add(arr[index]);
+         solve(index,list,ans,arr,target-arr[index]);
 
         // exclude case
         ans.remove(ans.size()-1);
-        //  solve(index+1,list,ans,arr,target);
-       }
+        solve(index+1,list,ans,arr,target);
+       
     }
    
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
