@@ -14,6 +14,7 @@
 | [0118-pascals-triangle](https://github.com/Pawan8010/leetcode_practice/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Pawan8010/leetcode_practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Pawan8010/leetcode_practice/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Pawan8010/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0503-next-greater-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Pawan8010/leetcode_practice/tree/master/0739-daily-temperatures) |
@@ -156,4 +157,20 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0040-combination-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Pawan8010/leetcode_practice/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Pawan8010/leetcode_practice/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Pawan8010/leetcode_practice/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Pawan8010/leetcode_practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
