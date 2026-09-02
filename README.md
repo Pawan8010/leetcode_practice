@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Pawan8010/leetcode_practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Pawan8010/leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Pawan8010/leetcode_practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Pawan8010/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Pawan8010/leetcode_practice/tree/master/0118-pascals-triangle) |
@@ -179,6 +180,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Pawan8010/leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Pawan8010/leetcode_practice/tree/master/0200-number-of-islands) |
 ## Bit Manipulation
 |  |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Pawan8010/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Pawan8010/leetcode_practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
