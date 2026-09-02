@@ -83,6 +83,7 @@
 | [0014-longest-common-prefix](https://github.com/Pawan8010/leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Pawan8010/leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pawan8010/leetcode_practice/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Pawan8010/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Pawan8010/leetcode_practice/tree/master/1768-merge-strings-alternately) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Pawan8010/leetcode_practice/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Pawan8010/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
@@ -145,6 +147,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pawan8010/leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/Pawan8010/leetcode_practice/tree/master/1922-count-good-numbers) |
 ## Monotonic Stack
 |  |
