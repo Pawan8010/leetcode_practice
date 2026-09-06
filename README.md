@@ -35,6 +35,7 @@
 | [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pawan8010/leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Pawan8010/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Pawan8010/leetcode_practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Pawan8010/leetcode_practice/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pawan8010/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -60,6 +61,7 @@
 | [0053-maximum-subarray](https://github.com/Pawan8010/leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Pawan8010/leetcode_practice/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Pawan8010/leetcode_practice/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Pawan8010/leetcode_practice/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | [0076-minimum-window-substring](https://github.com/Pawan8010/leetcode_practice/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Pawan8010/leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pawan8010/leetcode_practice/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Pawan8010/leetcode_practice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Pawan8010/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
