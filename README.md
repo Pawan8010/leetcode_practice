@@ -21,6 +21,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Pawan8010/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Pawan8010/leetcode_practice/tree/master/0739-daily-temperatures) |
+| [0930-binary-subarrays-with-sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pawan8010/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pawan8010/leetcode_practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -130,6 +131,7 @@
 | [0229-majority-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pawan8010/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pawan8010/leetcode_practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
@@ -147,6 +149,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pawan8010/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Pawan8010/leetcode_practice/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pawan8010/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pawan8010/leetcode_practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Recursion
@@ -164,6 +167,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pawan8010/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
 |  |
