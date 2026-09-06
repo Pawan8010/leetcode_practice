@@ -82,6 +82,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pawan8010/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Pawan8010/leetcode_practice/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Pawan8010/leetcode_practice/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/Pawan8010/leetcode_practice/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Pawan8010/leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pawan8010/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0394-decode-string) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pawan8010/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Pawan8010/leetcode_practice/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pawan8010/leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pawan8010/leetcode_practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Pawan8010/leetcode_practice/tree/master/0205-isomorphic-strings) |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pawan8010/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Pawan8010/leetcode_practice/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0567-permutation-in-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pawan8010/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pawan8010/leetcode_practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
