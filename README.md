@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/Pawan8010/leetcode_practice/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Pawan8010/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pawan8010/leetcode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Pawan8010/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0503-next-greater-element-ii) |
@@ -50,6 +51,7 @@
 | [0088-merge-sorted-array](https://github.com/Pawan8010/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Pawan8010/leetcode_practice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pawan8010/leetcode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pawan8010/leetcode_practice/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -58,6 +60,7 @@
 | [0053-maximum-subarray](https://github.com/Pawan8010/leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Pawan8010/leetcode_practice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pawan8010/leetcode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -261,4 +264,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pawan8010/leetcode_practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pawan8010/leetcode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
