@@ -9,6 +9,7 @@ class Solution {
         for(int i=0;i<s.length();i++){
             ch[s.charAt(i)-'a']=i;
         }
+        
         boolean check[]=new boolean[26];
 
         for(int i=0;i<s.length();i++){
