@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/Pawan8010/leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pawan8010/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Pawan8010/leetcode_practice/tree/master/0053-maximum-subarray) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pawan8010/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Pawan8010/leetcode_practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
