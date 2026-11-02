@@ -23,6 +23,7 @@
 | [0229-majority-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Pawan8010/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pawan8010/leetcode_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Pawan8010/leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Pawan8010/leetcode_practice/tree/master/0739-daily-temperatures) |
@@ -61,6 +62,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Pawan8010/leetcode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pawan8010/leetcode_practice/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pawan8010/leetcode_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Pawan8010/leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pawan8010/leetcode_practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Pawan8010/leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
