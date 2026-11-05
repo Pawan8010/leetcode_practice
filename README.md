@@ -29,6 +29,7 @@
 | [0739-daily-temperatures](https://github.com/Pawan8010/leetcode_practice/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pawan8010/leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pawan8010/leetcode_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pawan8010/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pawan8010/leetcode_practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Pawan8010/leetcode_practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -51,6 +52,7 @@
 | [0392-is-subsequence](https://github.com/Pawan8010/leetcode_practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Pawan8010/leetcode_practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0680-valid-palindrome-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pawan8010/leetcode_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Pawan8010/leetcode_practice/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pawan8010/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -65,6 +67,7 @@
 | [0229-majority-element-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pawan8010/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pawan8010/leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pawan8010/leetcode_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -251,6 +254,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Pawan8010/leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Pawan8010/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pawan8010/leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pawan8010/leetcode_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Pigeonhole Principle
 |  |
 | ------- |
